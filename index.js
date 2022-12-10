@@ -40,6 +40,14 @@ var questions = [
   {
     question: "What is my favourite color? ",
     answer: "Green"
+  },
+  {
+    question: "Where i was born? ",
+    answer: "India"
+  },
+  {
+    question: "Which sport is my favourite? ",
+    answer: "Basketball"
   }
 ]
 
