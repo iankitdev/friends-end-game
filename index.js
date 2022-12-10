@@ -36,6 +36,10 @@ var questions = [
   {
     question: "What is my age? ",
     answer: "22"
+  },
+  {
+    question: "What is my favourite color? ",
+    answer: "Green"
   }
 ]
 
