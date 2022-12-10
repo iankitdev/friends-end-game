@@ -5,23 +5,22 @@ This is a small CLI quiz about how much user know me. One can take the quiz and 
 
 
 ```
-Question 1 : Where do i live?
-Answer 1 : Bangalore
+Question 1: Where do i live?
+Answer 1: Bangalore
 
-Question 2 : What is my favourite food?
-Answer 2 : Samosa
+Question 2: What is my favourite food?
+Answer 2: Samosa
 
-Question 3 : What is my age?
-Answer 3 : 22
+Question 3: What is my age?
+Answer 3: 22
 
-Question: What is my favourite color?
-Answer: Green
+Question 4: What is my favourite color?
+Answer 4: Green
 
-Question: Where i was born?
-Answer: India
+Question 5: Where i was born?
+Answer 5: India
 
-Question: Which sport is my favourite?
-Answer: Basketball
+Question 6: Which sport is my favourite?
+Answer 6: Basketball
 ```
-
 ### NOTE : THE ANSWERS ARE CASE SENSITIVE.
